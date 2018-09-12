@@ -1,0 +1,36 @@
+/* Styles for the solutions matrix */
+
+body {
+    font-family: "Helvetica Neue";
+}
+
+.mainContainer {
+    width: 95%;
+    max-width: 1000px;
+    background-color: #EFEFEF;
+    margin: auto;
+}
+
+.tileContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.tile {
+    background-color: #DDA934;
+    width: 300px;
+    height: 300px;
+    color: white;
+    cursor: pointer;
+    /* I think i can use flexbox to arrange the text properly */
+}
+
+.explodedTile {
+    background-color: white;
+}
+
+.explodedTile h2 {
+    background-color: #DDA934;
+    color: white;
+}
