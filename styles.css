@@ -19,7 +19,6 @@ body {
 }
 
 .tile {
-    background-color: #DDA934;
     width: 300px;
     height: 300px;
     color: white;
@@ -42,16 +41,14 @@ body {
 
 .explodedTile {
     background-color: white;
-    width: 1000px;
-    max-width: 100%;
     margin: 1em;
+    width: 300px;
+    min-height: 300px;
 }
 
 .explodedTile h2 {
-    background-color: #DDA934;
     color: white;
-    max-width: 100%;
-    padding: 2em 1em 1em;
+    padding: 1em;
     margin: 0;
 }
 

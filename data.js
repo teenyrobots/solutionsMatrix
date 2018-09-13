@@ -42,7 +42,7 @@ var data = [
     },
 
     {
-        slug: "d",
+        slug: "e",
         title: "stuff stuff stuff okay",
         interventions: [
             "internships",
@@ -55,7 +55,7 @@ var data = [
     },
 
     {
-        slug: "d",
+        slug: "f",
         title: "desert planet",
         interventions: [
             "internships",
@@ -68,7 +68,7 @@ var data = [
     },
 
     {
-        slug: "d",
+        slug: "g",
         title: "we got the text",
         interventions: [
             "internships",
