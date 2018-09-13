@@ -8,6 +8,7 @@ body {
     width: 95%;
     max-width: 1000px;
     background-color: #EFEFEF;
+    padding: 1em;
     margin: auto;
 }
 
@@ -23,14 +24,52 @@ body {
     height: 300px;
     color: white;
     cursor: pointer;
-    /* I think i can use flexbox to arrange the text properly */
+    margin: 1em auto;
+    position: relative;
+}
+
+.tile h2 {
+    position: absolute;
+    bottom: 0;
+    margin: 1em;
+}
+
+.tileInfo {
+    display: none;
+    background-color: white;
+    padding: 1em 0;
 }
 
 .explodedTile {
     background-color: white;
+    width: 1000px;
+    max-width: 100%;
+    margin: 1em;
 }
 
 .explodedTile h2 {
     background-color: #DDA934;
     color: white;
+    max-width: 100%;
+    padding: 2em 1em 1em;
+    margin: 0;
+}
+
+/*.explodedTile * {*/
+    /*margin: 1em;*/
+/*}*/
+
+.tileInfo p, .tileInfo a {
+    display: block;
+    margin: .5em 1em;
+}
+
+/* small bois */
+
+@media only screen and (max-width: 1000px) {
+    .mainContainer {
+        width: inherit;
+        max-width: 95%;
+    }
+
 }
