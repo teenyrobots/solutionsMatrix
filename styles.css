@@ -37,11 +37,18 @@ body {
     display: none;
     background-color: white;
     padding: 1em 0;
+    flex-grow: 2;
+}
+
+.tileInfo h3 {
+    margin: 1em;
 }
 
 .explodedTile {
+    display: flex;
+    flex-direction: column;
     background-color: white;
-    margin: 1em;
+    margin: 1em auto;
     width: 300px;
     min-height: 300px;
 }
@@ -50,6 +57,7 @@ body {
     color: white;
     padding: 1em;
     margin: 0;
+    cursor: pointer;
 }
 
 /*.explodedTile * {*/
