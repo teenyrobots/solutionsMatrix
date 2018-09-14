@@ -5,7 +5,7 @@ $(document).ready(function(){
     // k we can do shit with the data okay, just to prove it
     for (i = 0; i < data.length; i++) {
         $(".tileContainer").append(
-            '<div class="tile" id="'+data[i].slug+'"><h2>' + data[i].title + '</h2><div class="tileInfo">'+ intervene(data[i].interventions) + examples(data[i].examples) + '</div></div>'
+            '<div class="tile" id="'+data[i].slug+'"><h2>' + data[i].title + '</h2><div class="tileInfo">'+ intervene(data[i].interventions) + '<h4>Examples:</h4>' + examples(data[i].examples) + '</div></div>'
         );
         $('#'+data[i].slug).css("background-color", colors[i]);
     }
@@ -23,7 +23,7 @@ $(document).ready(function(){
         if (x) {
             var myExamples = [];
             for (k = 0; k < x.length; k++){
-                myExamples.push("<a href=''>"+x[k]+"</a>");
+                myExamples.push("<a href='" + x[k].url + "' target='_blank'>"+ x[k].title + "</a>");
             }
             return myExamples.join(" ");
         }

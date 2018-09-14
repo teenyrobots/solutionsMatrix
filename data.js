@@ -14,9 +14,18 @@ var data = [
             "incubators  & accelerators"
         ],
         examples: [
-            "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-            "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-            "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            {
+                title: "I just love your flashy ways",
+                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            },
+            {
+                title: "I just love your flashy ways",
+                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            },
+            {
+                title: "I just love your flashy ways",
+                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            }
         ]
     },
 
@@ -51,9 +60,18 @@ var data = [
             "Structure interviews and applications, and agree on criteria in advance"
         ],
         examples: [
-            "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-            "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-            "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            {
+                title: "I just love your flashy ways",
+                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            },
+            {
+                title: "I just love your flashy ways",
+                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            },
+            {
+                title: "I just love your flashy ways",
+                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            }
         ]
     },
 
@@ -90,9 +108,18 @@ var data = [
             "etc."
         ],
         examples: [
-            "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-            "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-            "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            {
+                title: "I just love your flashy ways",
+                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            },
+            {
+                title: "I just love your flashy ways",
+                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            },
+            {
+                title: "I just love your flashy ways",
+                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+            }
         ]
     },
 

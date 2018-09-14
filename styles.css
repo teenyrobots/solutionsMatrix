@@ -1,7 +1,13 @@
 /* Styles for the solutions matrix */
 
+
 body {
-    font-family: "Helvetica Neue";
+    font-family: 'Dosis', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Merriweather', serif;
+    letter-spacing: 1px;
 }
 
 .mainContainer {
@@ -28,6 +34,7 @@ body {
 }
 
 .tile h2 {
+    font-family: 'Merriweather', serif;
     position: absolute;
     bottom: 0;
     margin: 1em;
@@ -36,12 +43,17 @@ body {
 .tileInfo {
     display: none;
     background-color: white;
-    padding: 1em 0;
+    padding: 0 0 1em;
     flex-grow: 2;
 }
 
 .tileInfo h3 {
     margin: 1em;
+    font-weight: 400;
+}
+
+.tileInfo h4 {
+    margin: 2em 1em 1em;
 }
 
 .explodedTile {
