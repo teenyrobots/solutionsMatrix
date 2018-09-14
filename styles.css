@@ -19,7 +19,6 @@ body {
 }
 
 .tile {
-    background-color: #DDA934;
     width: 300px;
     height: 300px;
     color: white;
@@ -38,21 +37,27 @@ body {
     display: none;
     background-color: white;
     padding: 1em 0;
+    flex-grow: 2;
 }
 
-.explodedTile {
-    background-color: white;
-    width: 1000px;
-    max-width: 100%;
+.tileInfo h3 {
     margin: 1em;
 }
 
+.explodedTile {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin: 1em auto;
+    width: 300px;
+    min-height: 300px;
+}
+
 .explodedTile h2 {
-    background-color: #DDA934;
     color: white;
-    max-width: 100%;
-    padding: 2em 1em 1em;
+    padding: 1em;
     margin: 0;
+    cursor: pointer;
 }
 
 /*.explodedTile * {*/
