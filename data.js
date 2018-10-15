@@ -7,7 +7,7 @@ var data = [
         title: "ownership or stewardship of outlet",
         interventions: [
             "minority ownership of outlet or media company",
-            "diversity of investors ",
+            "diversity of investors",
             "diversity of board",
             "public media",
             "community media",
@@ -26,7 +26,8 @@ var data = [
                 title: "I just love your flashy ways",
                 url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
             }
-        ]
+        ],
+        color: "#dda934"
     },
 
     {
@@ -39,7 +40,8 @@ var data = [
             "on-the-job",
             "continuing",
             "mid-career"
-        ]
+        ],
+        color: "#e0a13e"
     },
 
     {
@@ -72,7 +74,8 @@ var data = [
                 title: "I just love your flashy ways",
                 url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
             }
-        ]
+        ],
+        color: "#e29948"
     },
 
     {
@@ -90,7 +93,8 @@ var data = [
             "family friendly policies",
             "process for airing, investigating and reconciling grievances not just internally but in public",
             "Q: how to account for differences b/w integration into largely majority staff vs. a diverse or largely minority staff?"
-        ]
+        ],
+        color: "#e59151"
     },
 
     {
@@ -120,7 +124,8 @@ var data = [
                 title: "I just love your flashy ways",
                 url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
             }
-        ]
+        ],
+        color: "#e7895b"
     },
 
     {
@@ -134,7 +139,101 @@ var data = [
             "fighting stereotypes within stories",
             "solutions journalism around issues related to underserved audiences",
             "input from a range of newsroom staff"
-        ]
+        ],
+        color: "#ea8165"
+    },
+
+    {
+        slug: "h",
+        title: "audience engagement",
+        interventions: [
+            "at front end, during story selection",
+            "over course of reporting",
+            "responses (comments, letters, etc.)",
+            "events",
+            "crowdsourcing",
+            "media literacy/production training",
+            "policies and protections: dealing with harrassment/threats by audience members and others"
+        ],
+        color: "#ed796f"
+    },
+
+    {
+        slug: "i",
+        title: "innovation",
+        interventions: [
+            "new platforms that reach diverse audiences",
+            "new story forms that reach/reflect diverse audiences",
+            "new modes of interaction that give diverse audiences more voice or agency",
+            "new business models that increase targeted engagement or distribution",
+            "support for innovation by underrepresented groups",
+            'recognizing/rewarding "norm entrepreneurs" (per Bohnet)'
+        ],
+        color: "#ef7278"
+    },
+
+    {
+        slug: "j",
+        title: "distribution",
+        interventions: [
+            "to selected demographics",
+            'to selected regions',
+            'to additional language groups',
+            'etc.'
+        ],
+        color: "#f26a82"
+    },
+
+    {
+        slug: "k",
+        title: "partnerships",
+        interventions: [
+            'with community groups',
+            'with other outlets that have a more diverse audience',
+            'with faith organizations',
+            'with educational organizations',
+            'with cultural organizations',
+            'with social platforms',
+            'with influentials or opinion leaders'
+        ],
+        color: "#f5628c"
+    },
+
+    {
+        slug: "l",
+        title: "evaluation",
+        interventions: [
+            'tracking inclusion',
+            'tracking influence',
+            'tracking sentiment',
+            'tracking outcomes',
+            'individual reviews: make more structured, less subjective'
+        ],
+        color: "#f75a96"
+    },
+
+    {
+        slug: "m",
+        title: "larger industry",
+        interventions: [
+            'industry standards',
+            'comparative stats',
+            'sample guidelines and policies',
+            'ambassadors and experts',
+            'professional organizations'
+        ],
+        color: "#fa529f"
+    },
+
+    {
+        slug: "n",
+        title: "legal structures",
+        interventions: [
+            'EEOC',
+            'hate speech laws',
+            'sexual harassment laws'
+        ],
+        color: "#fc4aa9"
     }
 
 ]

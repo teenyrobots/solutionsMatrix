@@ -18,33 +18,28 @@ h1, h2 {
     margin: auto;
 }
 
-.tileContainer {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
+/*.tileContainer {*/
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
+    /*justify-content: space-evenly;*/
+/*}*/
 
 .tile {
-    width: 300px;
-    height: 300px;
+    width: 100%;
     color: white;
     cursor: pointer;
-    margin: 1em auto;
-    position: relative;
+    margin: .5em auto;
 }
 
 .tile h2 {
     font-family: 'Merriweather', serif;
-    position: absolute;
-    bottom: 0;
-    margin: 1em;
+    padding: .5em;
 }
 
 .tileInfo {
     display: none;
     background-color: white;
-    padding: 0 0 1em;
-    flex-grow: 2;
+    padding: 1em;
 }
 
 .tileInfo h3 {
@@ -57,24 +52,18 @@ h1, h2 {
 }
 
 .explodedTile {
-    display: flex;
-    flex-direction: column;
     background-color: white;
     margin: 1em auto;
-    width: 300px;
-    min-height: 300px;
+    width: 100%;
+    box-shadow: 0px 0px 10px lightgrey;
 }
 
 .explodedTile h2 {
     color: white;
-    padding: 1em;
+    padding: .5em;
     margin: 0;
     cursor: pointer;
 }
-
-/*.explodedTile * {*/
-    /*margin: 1em;*/
-/*}*/
 
 .tileInfo p, .tileInfo a {
     display: block;

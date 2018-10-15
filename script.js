@@ -2,36 +2,45 @@
 
 $(document).ready(function(){
 
-    // k we can do shit with the data okay, just to prove it
-    for (i = 0; i < data.length; i++) {
+    for (let i = 0; i < data.length; i++) {
         $(".tileContainer").append(
-            '<div class="tile" id="'+data[i].slug+'"><h2>' + data[i].title + '</h2><div class="tileInfo">'+ intervene(data[i].interventions) + '<h4>Examples:</h4>' + examples(data[i].examples) + '</div></div>'
-        );
-        $('#'+data[i].slug).css("background-color", colors[i]);
+            '<div class="tile" id="'+data[i].slug+'"><h2>' + data[i].title + '</h2><div class="tileInfo" id="' + data[i].slug + 'Info">' + intervene(data[i].interventions)
+        )
+        if (data[i].examples != undefined) {
+            $('#' + data[i].slug+'Info').append(
+                '<h4>Examples:</h4>' + examples(data[i].examples) + '</div></div>'
+            )
+        } else {
+            $('#'+data[i].slug+'Info').append(
+                '</div></div>'
+            )
+        }
+        $('#'+data[i].slug).css("background-color", data[i].color);
     }
 
     function intervene(x) {
         var myStuff = [];
-        for (j = 0; j < x.length; j++){
+        for (j in x){
             myStuff.push("<h3>"+x[j]+"</h3>");
         }
-        console.log(myStuff.join(" "));
         return myStuff.join(" ");
     }
 
-    function examples(x) {
-        if (x) {
+    function examples(y) {
+        if (y) {
             var myExamples = [];
-            for (k = 0; k < x.length; k++){
-                myExamples.push("<a href='" + x[k].url + "' target='_blank'>"+ x[k].title + "</a>");
+            for (k in y){
+                myExamples.push("<a href='" + y[k].url + "' target='_blank'>"+ y[k].title + "</a>");
             }
             return myExamples.join(" ");
+        } else {
+            console.log("no examples");
         }
     }
 
     $(".tile").click(function(){
         $(this).toggleClass('tile explodedTile');
-        $(':nth-child(2)', this).toggle();
+        $('.tileInfo', this).toggle();
     })
 
 });
