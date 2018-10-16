@@ -48,25 +48,25 @@ $(document).ready(function(){
         }
     }
 
-    $("#all").click(function(){
-        $(".tile").show();
-    })
-
-    $("#catA").click(function(){
+    function hideItAll() {
+        $(".explodedTile").attr("class", "tile");
+        $(".tileInfo").hide();
         $(".tile").hide();
-        $('*[data-catA="true"]').show();
-    })
+    }
 
-    $("#catB").click(function(){
-        $(".tile").hide();
-        $('*[data-catB="true"]').show();
+    $("button").click(function(){
+        hideItAll();
+        console.log(this.id);
+        if (this.id === "catA") {
+            $('*[data-catA="true"]').show();
+        } else if (this.id === "catB") {
+            $('*[data-catB="true"]').show();
+        } else if (this.id === "catC") {
+            $('*[data-catC="true"]').show();
+        } else {
+            $(".tile").show();
+        }
     })
-
-    $("#catC").click(function(){
-        $(".tile").hide();
-        $('*[data-catC="true"]').show();
-    })
-
 
     $(".tile").click(function(){
         $(this).toggleClass('tile explodedTile');
