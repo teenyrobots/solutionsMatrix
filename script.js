@@ -1,10 +1,11 @@
 /* jQuery for Solutions Matrix */
 
+
 $(document).ready(function(){
 
     for (let i = 0; i < data.length; i++) {
         $(".tileContainer").append(
-            '<div class="tile" id="'+data[i].slug+'"><h2>' + data[i].title + '</h2><div class="tileInfo" id="' + data[i].slug + 'Info">' + intervene(data[i].interventions)
+            '<div class="tile" id="'+data[i].slug+'" style="display: none"><h2>' + data[i].title + '</h2><div class="tileInfo" id="' + data[i].slug + 'Info">' + intervene(data[i].interventions)
         )
         if (data[i].examples != undefined) {
             $('#' + data[i].slug+'Info').append(
@@ -14,6 +15,15 @@ $(document).ready(function(){
             $('#'+data[i].slug+'Info').append(
                 '</div></div>'
             )
+        }
+        if (data[i].catA) {
+            $('#'+data[i].slug).attr("data-catA", "true")
+        }
+        if (data[i].catB) {
+            $('#'+data[i].slug).attr("data-catB", "true")
+        }
+        if (data[i].catC) {
+            $('#'+data[i].slug).attr("data-catC", "true")
         }
         $('#'+data[i].slug).css("background-color", data[i].color);
     }
@@ -37,6 +47,26 @@ $(document).ready(function(){
             console.log("no examples");
         }
     }
+
+    $("#all").click(function(){
+        $(".tile").show();
+    })
+
+    $("#catA").click(function(){
+        $(".tile").hide();
+        $('*[data-catA="true"]').show();
+    })
+
+    $("#catB").click(function(){
+        $(".tile").hide();
+        $('*[data-catB="true"]').show();
+    })
+
+    $("#catC").click(function(){
+        $(".tile").hide();
+        $('*[data-catC="true"]').show();
+    })
+
 
     $(".tile").click(function(){
         $(this).toggleClass('tile explodedTile');

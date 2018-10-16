@@ -27,7 +27,9 @@ var data = [
                 url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
             }
         ],
-        color: "#dda934"
+        color: "#dda934",
+        catA: "true",
+        catC: "true"
     },
 
     {
@@ -41,7 +43,8 @@ var data = [
             "continuing",
             "mid-career"
         ],
-        color: "#e0a13e"
+        color: "#e0a13e",
+        catB: "true"
     },
 
     {
@@ -75,7 +78,9 @@ var data = [
                 url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
             }
         ],
-        color: "#e29948"
+        color: "#e29948",
+        catA: "true",
+        catB: "true"
     },
 
     {
@@ -94,7 +99,9 @@ var data = [
             "process for airing, investigating and reconciling grievances not just internally but in public",
             "Q: how to account for differences b/w integration into largely majority staff vs. a diverse or largely minority staff?"
         ],
-        color: "#e59151"
+        color: "#e59151",
+        catA: "true",
+        catC: "true"
     },
 
     {
@@ -125,7 +132,8 @@ var data = [
                 url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
             }
         ],
-        color: "#e7895b"
+        color: "#e7895b",
+        catB: "true"
     },
 
     {
@@ -155,7 +163,9 @@ var data = [
             "media literacy/production training",
             "policies and protections: dealing with harrassment/threats by audience members and others"
         ],
-        color: "#ed796f"
+        color: "#ed796f",
+        catA: "true",
+        catC: "true"
     },
 
     {
@@ -169,7 +179,8 @@ var data = [
             "support for innovation by underrepresented groups",
             'recognizing/rewarding "norm entrepreneurs" (per Bohnet)'
         ],
-        color: "#ef7278"
+        color: "#ef7278",
+        catB: "true"
     },
 
     {
@@ -181,7 +192,9 @@ var data = [
             'to additional language groups',
             'etc.'
         ],
-        color: "#f26a82"
+        color: "#f26a82",
+        catA: "true",
+        catC: "true"
     },
 
     {
@@ -196,7 +209,8 @@ var data = [
             'with social platforms',
             'with influentials or opinion leaders'
         ],
-        color: "#f5628c"
+        color: "#f5628c",
+        catB: "true"
     },
 
     {
@@ -209,7 +223,9 @@ var data = [
             'tracking outcomes',
             'individual reviews: make more structured, less subjective'
         ],
-        color: "#f75a96"
+        color: "#f75a96",
+        catA: "true",
+        catC: "true"
     },
 
     {
@@ -222,7 +238,8 @@ var data = [
             'ambassadors and experts',
             'professional organizations'
         ],
-        color: "#fa529f"
+        color: "#fa529f",
+        catB: "true"
     },
 
     {
@@ -233,7 +250,9 @@ var data = [
             'hate speech laws',
             'sexual harassment laws'
         ],
-        color: "#fc4aa9"
+        color: "#fc4aa9",
+        catA: "true",
+        catC: "true"
     }
 
 ]
