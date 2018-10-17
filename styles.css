@@ -22,7 +22,7 @@ h1, h2 {
     width: 100%;
     color: white;
     cursor: pointer;
-    margin: .5em auto;
+    margin: 1em auto;
     box-shadow: 0px 0px 10px lightgrey;
 }
 
