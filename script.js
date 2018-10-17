@@ -5,7 +5,7 @@ $(document).ready(function(){
 
     for (let i = 0; i < data.length; i++) {
         $(".tileContainer").append(
-            '<div class="tile" id="'+data[i].slug+'" style="display: none"><h2>' + data[i].title + '</h2><div class="tileInfo" id="' + data[i].slug + 'Info">' + intervene(data[i].interventions)
+            '<div class="tile" id="'+data[i].slug+'" style="display: none"><img src="assets/b.svg" class="icon"><h2>' + data[i].title + '</h2><div class="tileInfo" id="' + data[i].slug + 'Info"><h3>Solutions:</h3>' + intervene(data[i].interventions)
         )
         if (data[i].examples != undefined) {
             $('#' + data[i].slug+'Info').append(
@@ -31,7 +31,7 @@ $(document).ready(function(){
     function intervene(x) {
         var myStuff = [];
         for (j in x){
-            myStuff.push("<h3>"+x[j]+"</h3>");
+            myStuff.push("<li>"+x[j]+"</li>");
         }
         return myStuff.join(" ");
     }

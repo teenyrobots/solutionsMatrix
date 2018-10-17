@@ -28,26 +28,33 @@ h1, h2 {
 
 .tile h2 {
     font-family: 'Merriweather', serif;
-    padding: .5em;
-    margin: 0;
+    display: inline;
+    vertical-align: middle;
 }
 
 .icon {
+    height: 2em;
     display: inline;
-    height: 50px;
     vertical-align: middle;
+    margin: .5em;
+    fill: white;
 }
 
 .tileInfo {
     display: none;
     background-color: white;
-    padding: 1em;
+    padding: .25em 1em 1em 1em;
     color: black;
 }
 
 .tileInfo h3 {
     margin: 1em;
+}
+
+.tileInfo li {
+    margin: .75em;
     font-weight: 400;
+    font-size: 1.5em;
 }
 
 .tileInfo h4 {
