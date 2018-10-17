@@ -48,15 +48,9 @@ $(document).ready(function(){
         }
     }
 
-    function hideItAll() {
-        $(".explodedTile").attr("class", "tile");
+    $("button").click(function(){
         $(".tileInfo").hide();
         $(".tile").hide();
-    }
-
-    $("button").click(function(){
-        hideItAll();
-        console.log(this.id);
         if (this.id === "catA") {
             $('*[data-catA="true"]').show();
         } else if (this.id === "catB") {
@@ -69,22 +63,7 @@ $(document).ready(function(){
     })
 
     $(".tile").click(function(){
-        $(this).toggleClass('tile explodedTile');
         $('.tileInfo', this).toggle();
     })
 
 });
-
-
-
-
-
-// $(".tile").click(function(){
-//     $(this).attr("class", "explodedTile");
-//     console.log("ya clicked on a tile");
-// });
-//
-// $(".explodedTile").click(function(){
-//     $(this).attr("class", "tile");
-//     console.log("ya clicked on a EXPLODED tile");
-// });

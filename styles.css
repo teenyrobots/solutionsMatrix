@@ -18,28 +18,31 @@ h1, h2 {
     margin: auto;
 }
 
-/*.tileContainer {*/
-    /*display: flex;*/
-    /*flex-wrap: wrap;*/
-    /*justify-content: space-evenly;*/
-/*}*/
-
 .tile {
     width: 100%;
     color: white;
     cursor: pointer;
     margin: .5em auto;
+    box-shadow: 0px 0px 10px lightgrey;
 }
 
 .tile h2 {
     font-family: 'Merriweather', serif;
     padding: .5em;
+    margin: 0;
+}
+
+.icon {
+    display: inline;
+    height: 50px;
+    vertical-align: middle;
 }
 
 .tileInfo {
     display: none;
     background-color: white;
     padding: 1em;
+    color: black;
 }
 
 .tileInfo h3 {
@@ -49,20 +52,6 @@ h1, h2 {
 
 .tileInfo h4 {
     margin: 2em 1em 1em;
-}
-
-.explodedTile {
-    background-color: white;
-    margin: 1em auto;
-    width: 100%;
-    box-shadow: 0px 0px 10px lightgrey;
-}
-
-.explodedTile h2 {
-    color: white;
-    padding: .5em;
-    margin: 0;
-    cursor: pointer;
 }
 
 .tileInfo p, .tileInfo a {

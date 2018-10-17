@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba045dc3-b885-4ca3-960d-7562b4384256" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/b.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bb.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script.js" afterPath="$PROJECT_DIR$/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +25,11 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+            <state relative-caret-position="464">
+              <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+                <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
               </folding>
             </state>
           </provider>
@@ -34,8 +38,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,9 +48,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-              <folding />
+            <state relative-caret-position="345">
+              <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,49 +62,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="413">
               <caret line="241" column="20" lean-forward="false" selection-start-line="241" selection-start-column="20" selection-end-line="241" selection-end-column="20" />
-              <folding>
-                <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-                <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-                <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-                <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -106,8 +70,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            <state relative-caret-position="593">
+              <caret line="54" column="1" lean-forward="false" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -119,7 +83,7 @@
     <findStrings>
       <find>1em</find>
       <find>style=&quot;background-color:'+colors[i]+'&quot;</find>
-      <find>style=&quot;background-color:'+colors[i]+'&quot;</find>
+      <find>exploded</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -128,10 +92,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/styles.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/data.js" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -142,8 +106,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="547" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-53" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -216,15 +180,15 @@
       <workItem from="1538600160507" duration="87000" />
       <workItem from="1539197177972" duration="181000" />
       <workItem from="1539642968304" duration="4655000" />
-      <workItem from="1539732210895" duration="1406000" />
+      <workItem from="1539732210895" duration="3106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24630000" />
+    <option name="totallyTimeSpent" value="26330000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="547" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16369048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -272,7 +236,7 @@
           <caret line="8" column="60" lean-forward="false" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -281,49 +245,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -333,7 +255,7 @@
           <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -342,7 +264,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="39" lean-forward="false" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -360,7 +284,7 @@
           <caret line="7" column="162" lean-forward="false" selection-start-line="7" selection-start-column="162" selection-end-line="7" selection-end-column="162" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -369,7 +293,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="105" lean-forward="false" selection-start-line="6" selection-start-column="105" selection-end-line="6" selection-end-column="105" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -377,49 +303,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +321,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -446,7 +330,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="105" lean-forward="false" selection-start-line="6" selection-start-column="105" selection-end-line="6" selection-end-column="105" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -454,49 +340,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -514,7 +358,7 @@
           <caret line="7" column="162" lean-forward="false" selection-start-line="7" selection-start-column="162" selection-end-line="7" selection-end-column="162" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -523,7 +367,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="105" lean-forward="false" selection-start-line="6" selection-start-column="105" selection-end-line="6" selection-end-column="105" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -539,49 +385,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -589,7 +393,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -597,49 +403,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +421,7 @@
           <caret line="8" column="60" lean-forward="false" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -666,7 +430,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="22" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="32" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -682,49 +448,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
           <caret line="95" column="9" lean-forward="false" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +458,7 @@
           <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -743,7 +467,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -751,49 +477,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -811,7 +495,7 @@
           <caret line="8" column="60" lean-forward="false" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -820,49 +504,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="66" column="9" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -870,7 +512,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="22" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="32" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -888,7 +532,7 @@
           <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -897,7 +541,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -905,49 +551,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -965,7 +569,7 @@
           <caret line="8" column="60" lean-forward="false" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -974,7 +578,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="22" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="32" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -990,49 +596,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
           <caret line="95" column="9" lean-forward="false" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,7 +606,7 @@
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1051,7 +615,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1059,49 +625,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1119,16 +643,8 @@
           <caret line="8" column="60" lean-forward="false" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,75 +652,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
           <caret line="241" column="20" lean-forward="false" selection-start-line="241" selection-start-column="20" selection-end-line="241" selection-end-column="20" />
-          <folding>
-            <marker date="1539649917218" expanded="true" signature="0:31" ph="/*...*/" />
-            <marker date="1539649917218" expanded="true" signature="44:7855" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="51:987" ph="{&quot;slug&quot;: &quot;b&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="148:392" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="412:911" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="426:575" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="589:738" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="752:901" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="994:1308" ph="{&quot;slug&quot;: &quot;c&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1092:1254" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="1315:2742" ph="{&quot;slug&quot;: &quot;d&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="1384:2147" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2167:2666" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="2181:2330" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2344:2493" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2507:2656" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2749:3614" ph="{&quot;slug&quot;: &quot;e&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="2828:3538" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3621:4536" ph="{&quot;slug&quot;: &quot;f&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="3705:3963" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3983:4482" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="3997:4146" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4160:4309" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4323:4472" ph="{&quot;title&quot;: &quot;I just love your flashy ways&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4543:4992" ph="{&quot;slug&quot;: &quot;g&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="4614:4960" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="4999:5516" ph="{&quot;slug&quot;: &quot;h&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5081:5440" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="5523:6096" ph="{&quot;slug&quot;: &quot;i&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="5596:6042" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6103:6404" ph="{&quot;slug&quot;: &quot;j&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6178:6328" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6411:6873" ph="{&quot;slug&quot;: &quot;k&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6486:6819" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="6880:7247" ph="{&quot;slug&quot;: &quot;l&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="6953:7171" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7254:7590" ph="{&quot;slug&quot;: &quot;m&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7332:7536" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7597:7852" ph="{&quot;slug&quot;: &quot;n&quot;...}" />
-            <marker date="1539649917218" expanded="true" signature="7676:7776" ph="[...]" />
-            <marker date="1539649917218" expanded="true" signature="7870:7992" ph="[...]" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="345">
+          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+        <state relative-caret-position="464">
+          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1539733579190" expanded="true" signature="207:220" ph="..." />
+            <marker date="1539735357185" expanded="true" signature="207:220" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="54" column="1" lean-forward="false" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
