@@ -1,50 +1,41 @@
 /* data for Solutions Matrix */
 
+// catA : funders
+// catB : managers
+// catC : reporters
+
 var data = [
 
     {
         slug: "b",
         title: "ownership or stewardship of outlet",
         interventions: [
-            "minority ownership of outlet or media company",
-            "diversity of investors",
-            "diversity of board",
+            "ownership by women/POC",
+            "investor diversity",
+            "board diversity",
             "public media",
             "community media",
-            "incubators  & accelerators"
-        ],
-        examples: [
-            {
-                title: "I just love your flashy ways",
-                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-            },
-            {
-                title: "I just love your flashy ways",
-                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-            },
-            {
-                title: "I just love your flashy ways",
-                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-            }
+            "ethnic media",
+            "crowdfunding",
+            "incubators/accelerators"
         ],
         color: "#dda934",
-        catA: "true",
-        catC: "true"
+        catA: "true"
     },
 
     {
         slug: "c",
-        title: "journalism and leadership education",
+        title: "journalism education",
         interventions: [
-            "primary",
-            "secondary",
-            "vocational",
-            "on-the-job",
-            "continuing",
-            "mid-career"
+            "high school curriculum",
+            "college curriculum",
+            "scholarships",
+            "mid-career programs",
+            "fellowships",
+            "executive training"
         ],
         color: "#e0a13e",
-        catB: "true"
+        catA: "true"
     },
 
     {
@@ -52,56 +43,34 @@ var data = [
         title: "hiring",
         interventions: [
             "internships",
-            "recruitment",
             "early pipeline",
+            "recruitment",
             "freelancers",
-            "contractors",
-            "staff",
+            "editorial staff",
             "management",
-            "need to move from token mindset to critical mass so people are not isolated and benefits of heterogenous group can kick in",
-            "Keep role of mentors and role models in mind",
-            "Hiring someone who's responsible for ensuring diversity or tracking internal/external issues (i.e. an ombudsperson) can help to underscore commitment",
-            "Watch for gendered language in announcements, and make an effort to recruit a wide range of candidates",
-            "Structure interviews and applications, and agree on criteria in advance"
-        ],
-        examples: [
-            {
-                title: "I just love your flashy ways",
-                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-            },
-            {
-                title: "I just love your flashy ways",
-                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-            },
-            {
-                title: "I just love your flashy ways",
-                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-            }
+            "role dedicated to DEI"
         ],
         color: "#e29948",
-        catA: "true",
         catB: "true"
     },
 
     {
         slug: "e",
-        title: "staffing/culture",
+        title: "retention and culture",
         interventions: [
-            "retention",
+            "inclusive hiring practices",
             "promotion",
             "support for external networking",
-            "latitude for different forms of cultural expression",
-            'trainings: cultural "competency," negotiation, speaking up/out',
-            "support from leadership for inclusion and cultural difference",
+            "room for many forms of cultural expression",
+            'regular DEI trainings',
+            "support from leadership",
             "employee peer groups",
-            "clear grievance processes that protect victim",
-            "family friendly policies",
-            "process for airing, investigating and reconciling grievances not just internally but in public",
-            "Q: how to account for differences b/w integration into largely majority staff vs. a diverse or largely minority staff?"
+            "mentors/mentorship programs",
+            "robust and effective HR policies",
+            "mechanisms for external accountability"
         ],
         color: "#e59151",
-        catA: "true",
-        catC: "true"
+        catB: "true"
     },
 
     {
@@ -109,31 +78,19 @@ var data = [
         title: "inclusion in sourcing",
         interventions: [
             "by race",
+            "by ethnicity",
             "by gender",
-            "by neighborhood or region",
+            "by sexual orientation",
             "by faith group",
             "by nationality",
             "by language group",
             "by class",
+            "by neighborhood or region",
             "by age",
-            "etc."
-        ],
-        examples: [
-            {
-                title: "I just love your flashy ways",
-                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-            },
-            {
-                title: "I just love your flashy ways",
-                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-            },
-            {
-                title: "I just love your flashy ways",
-                url: "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
-            }
+            "by ability"
         ],
         color: "#e7895b",
-        catB: "true"
+        catC: "true"
     },
 
     {
@@ -141,30 +98,29 @@ var data = [
         title: "coverage",
         interventions: [
             "range of beats",
-            "which beats get more prestige/prominence?",
+            "prominance of beats",
             "story selection",
             "tone/voice/style",
-            "fighting stereotypes within stories",
-            "solutions journalism around issues related to underserved audiences",
-            "input from a range of newsroom staff"
+            "fighting stereotypes ",
+            "solutions journalism"
         ],
-        color: "#ea8165"
+        color: "#ea8165",
+        catC: "true"
     },
 
     {
         slug: "h",
         title: "audience engagement",
         interventions: [
-            "at front end, during story selection",
+            "during story selection",
             "over course of reporting",
             "responses (comments, letters, etc.)",
             "events",
             "crowdsourcing",
-            "media literacy/production training",
-            "policies and protections: dealing with harrassment/threats by audience members and others"
+            "media production trainings",
+            "policies and protections for dealing with harrassment from audience"
         ],
         color: "#ed796f",
-        catA: "true",
         catC: "true"
     },
 
@@ -176,10 +132,10 @@ var data = [
             "new story forms that reach/reflect diverse audiences",
             "new modes of interaction that give diverse audiences more voice or agency",
             "new business models that increase targeted engagement or distribution",
-            "support for innovation by underrepresented groups",
-            'recognizing/rewarding "norm entrepreneurs" (per Bohnet)'
+            "support for innovation by underrepresented groups"
         ],
         color: "#ef7278",
+        catA: "true",
         catB: "true"
     },
 
@@ -187,14 +143,13 @@ var data = [
         slug: "j",
         title: "distribution",
         interventions: [
-            "to selected demographics",
+            "to underserved demographics",
             'to selected regions',
             'to additional language groups',
-            'etc.'
+            'to lower literacy audiences'
         ],
         color: "#f26a82",
-        catA: "true",
-        catC: "true"
+        catB: "true"
     },
 
     {
@@ -202,57 +157,47 @@ var data = [
         title: "partnerships",
         interventions: [
             'with community groups',
-            'with other outlets that have a more diverse audience',
+            'with other outlets that have diverse audiences',
             'with faith organizations',
             'with educational organizations',
             'with cultural organizations',
             'with social platforms',
-            'with influentials or opinion leaders'
+            'with diverse influentials or opinion leaders'
         ],
         color: "#f5628c",
-        catB: "true"
+        catA: "true",
+        catB: "true",
+        catC: "true"
     },
 
     {
-        slug: "l",
-        title: "evaluation",
+        slug: 'l',
+        title: 'evaluation',
         interventions: [
-            'tracking inclusion',
+            'tracking diversity',
+            'measuring inclusion',
             'tracking influence',
             'tracking sentiment',
-            'tracking outcomes',
-            'individual reviews: make more structured, less subjective'
+            'tracking social impact outcomes'
         ],
-        color: "#f75a96",
+        color: '#f75a96',
         catA: "true",
-        catC: "true"
-    },
-
-    {
-        slug: "m",
-        title: "larger industry",
-        interventions: [
-            'industry standards',
-            'comparative stats',
-            'sample guidelines and policies',
-            'ambassadors and experts',
-            'professional organizations'
-        ],
-        color: "#fa529f",
         catB: "true"
     },
 
     {
-        slug: "n",
-        title: "legal structures",
+        slug: 'm',
+        title: 'larger industry',
         interventions: [
-            'EEOC',
-            'hate speech laws',
-            'sexual harassment laws'
+            'industry standards',
+            'comparative statistics',
+            'sample guidelines and policies',
+            'best practices',
+            'professional organizations',
+            'awards'
         ],
-        color: "#fc4aa9",
-        catA: "true",
-        catC: "true"
+        color: "#fa529f",
+        catA: "true"
     }
 
 ]
