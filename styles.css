@@ -2,7 +2,13 @@
 
 
 body {
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
 }
 
 h1, h2 {
@@ -10,16 +16,63 @@ h1, h2 {
     letter-spacing: 1px;
 }
 
+h1 {
+    font-size: 4em;
+    margin: .25em 0;
+}
+
+/*Button styles start */
+button {
+    display: inline-block;
+    border: none;
+    padding: 0;
+    margin: 0;
+    text-decoration: underline;
+    background: transparent;
+    color: #ff42b3;
+    font-family: 'Merriweather', serif;
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+    text-align: center;
+    transition: background 250ms ease-in-out, transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+button:hover,
+button:focus {
+    color: #C91666;
+    text-decoration: none;
+}
+
+button:focus {
+
+}
+
+button:active {
+    transform: scale(.9);
+}
+/* Button styles end */
+
 .mainContainer {
     width: 95%;
     max-width: 1000px;
     background-color: #EFEFEF;
     padding: 1em;
-    margin: auto;
+    margin: .5em auto;
+}
+
+.flexer {
+    display: flex;
+}
+
+.tileContainer {
+    margin: 2em 0 0;
 }
 
 .tile {
-    width: 100%;
+    max-width: 100%;
     color: white;
     cursor: pointer;
     margin: 1em auto;
@@ -32,11 +85,16 @@ h1, h2 {
     vertical-align: middle;
 }
 
+.tile .flexer {
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
 .icon {
     height: 2em;
     display: inline;
     vertical-align: middle;
-    margin: .5em;
+    margin: 1em;
     fill: white;
 }
 
@@ -49,12 +107,16 @@ h1, h2 {
 
 .tileInfo h3 {
     margin: 1em;
+    font-style: italic;
+    font-size: 1em;
+    border-bottom: solid black 1px;
 }
 
 .tileInfo li {
-    margin: .75em;
+    margin: .25em 1em;
     font-weight: 400;
-    font-size: 1.5em;
+    font-size: 1em;
+    list-style-type: square;
 }
 
 .tileInfo h4 {
@@ -64,6 +126,12 @@ h1, h2 {
 .tileInfo p, .tileInfo a {
     display: block;
     margin: .5em 1em;
+}
+
+footer {
+    background-color: #EFEFEF;
+    text-align: center;
+    font-size: .5em;
 }
 
 /* small bois */

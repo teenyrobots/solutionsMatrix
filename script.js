@@ -5,7 +5,7 @@ $(document).ready(function(){
 
     for (let i = 0; i < data.length; i++) {
         $(".tileContainer").append(
-            '<div class="tile" id="'+data[i].slug+'" style="display: none"><img src="assets/'+ data[i].slug +'.png" class="icon"><h2>' + data[i].title + '</h2><div class="tileInfo" id="' + data[i].slug + 'Info"><h3>Solutions:</h3>' + intervene(data[i].interventions)
+            '<div class="tile" id="'+data[i].slug+'" style="display: none"><div class="flexer"><img src="assets/'+ data[i].slug +'.png" class="icon"><h2>' + data[i].title + '</h2></div><div class="tileInfo" id="' + data[i].slug + 'Info"><h3>Solutions:</h3>' + intervene(data[i].interventions)
         )
         if (data[i].examples != undefined) {
             $('#' + data[i].slug+'Info').append(
