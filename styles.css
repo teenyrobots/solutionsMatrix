@@ -91,10 +91,10 @@ button:active {
 }
 
 .icon {
-    height: 2em;
+    height: 3em;
     display: inline;
     vertical-align: middle;
-    margin: 1em;
+    margin: .25em 1em .25em .75em;
     fill: white;
 }
 
